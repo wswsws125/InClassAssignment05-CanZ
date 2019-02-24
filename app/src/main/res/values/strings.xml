@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InClassAssignment05-CanZ</string>
+    <string name="title">Title</string>
+    <string name="yourMessage">Your Message</string>
+    <string name="onlySendTitle">Only Send Title</string>
+    <string name="sendEmail">Send Email</string>
+    <string name="launch_activity">Launch Activity</string>
+    <string name="launchCamera">Launch Camera</string>
+
+</resources>

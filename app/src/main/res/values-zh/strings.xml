@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">课堂作业5</string>
+    <string name="title">标题</string>
+    <string name="yourMessage">输入信息</string>
+    <string name="onlySendTitle">仅发送标题</string>
+    <string name="sendEmail">发送邮件</string>
+    <string name="launchCamera">打开相机</string>
+    <string name="launch_activity">打开活动</string>
+</resources>
